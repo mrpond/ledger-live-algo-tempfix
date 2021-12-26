@@ -1,4 +1,6 @@
 # ledger-live-algo-tempfix
+## 27/12/2021 Ledger Live 2.36.3
+
 
 Hi, if anyone here use Algorand with ledger live like I do.
 There is one bug, after you use Yieldly or Algofi,
