@@ -1,5 +1,5 @@
 # ledger-live-algo-tempfix
-## 30/1/2022 Ledger Live 2.37.2
+## 13/02/2022 Ledger Live 2.38.2
 
 
 Hi, if anyone here use Algorand with ledger live like I do.
